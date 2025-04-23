@@ -7,7 +7,7 @@
 - **Name**: Zhuo-Yang Song
 - **Email**: [zhuoyangsong@stu.pku.edu.cn](mailto:zhuoyangsong@stu.pku.edu.cn)
 - **ORCID**: [0009-0001-9727-7908](https://orcid.org/0009-0001-9727-7908)
-- **Introduction**: Undergraduate student at the School of Physics, Peking University, Class of 2026. Recipient of the School of Physics Seagull Scholarship and 4th place in the 38th National Physics Competition. Passionate about the intersection of physics and artificial intelligence.
+- **Introduction**: Undergraduate student at the School of Physics, Peking University, Class of 2026. Recipient of the School of Physics Seagull Scholarship and 4th place in the 38th CPHO. Passionate about the intersection of physics and artificial intelligence.
 
 ## Personal Introduction
 
