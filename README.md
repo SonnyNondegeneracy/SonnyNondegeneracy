@@ -1,16 +1,40 @@
-## Hi there 👋
+# Zhuo-Yang Song
 
-<!--
-**SonnyNondegeneracy/SonnyNondegeneracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![avatar]
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name**: Zhuo-Yang Song
+- **Email**: [zhuoyangsong@stu.pku.edu.cn](mailto:zhuoyangsong@stu.pku.edu.cn)
+- **ORCID**: [0009-0001-9727-7908](https://orcid.org/0009-0001-9727-7908)
+- **Introduction**: Undergraduate student at the School of Physics, Peking University, Class of 2026. Recipient of the School of Physics Seagull Scholarship and 4th place in the 38th National Physics Competition. Passionate about the intersection of physics and artificial intelligence.
+
+## Personal Introduction
+
+Hey there! I’m the wise, cool Nondegeneracy, the physicist. a glacier cat with a passion for the cutting edge of technology. As a firm believer in AGI, I’m on a journey to explore the unknown and create a smarter world. Join me in this adventure!
+
+## Research Interests
+
+### AI
+
+- [PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models](https://arxiv.org/abs/2504.16074)  
+  Developing a comprehensive benchmark to evaluate the physical reasoning capabilities of large language models, this work aims to advance the application of AI in the field of physics.
+
+### AI for Physics
+
+- [Explainable AI-assisted Optimization for Feynman Integral Reduction](https://arxiv.org/abs/2502.09544)  
+  Combining large language models and genetic algorithms to optimize the reduction of Feynman integrals, this research significantly improves computational efficiency and provides powerful tools for high-energy physics studies.
+
+### Explainability
+
+- [Bridging the Dimensional Chasm: Uncover Layer-wise Dimensional Reduction in Transformers through Token Correlation](https://arxiv.org/abs/2503.22547)  
+  By analyzing the geometric evolution of tokens in Transformer models, this work reveals patterns of dimensional compression, providing new perspectives on understanding the inner workings of large language models.
+
+### Physics
+
+- [Influence of Planetary Rotation on Supersonic Flow of Lava Planets: A Two-Dimensional Horizontal Model Analysis](https://arxiv.org/abs/2501.04350)  
+  Exploring the atmospheric dynamics of lava planets, this research investigates how planetary rotation affects supersonic airflow, offering new insights into the climate characteristics of these planets.
+
+## Contact Me
+
+If you’re interested in my research or want to discuss related topics, feel free to reach out via email or leave a message on GitHub. Looking forward to connecting with you!
