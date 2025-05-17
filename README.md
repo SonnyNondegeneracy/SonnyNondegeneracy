@@ -22,6 +22,9 @@ Hey there! I’m the wise, cool Nondegeneracy, the physicist. a glacier cat with
 
 ### AI for Physics and Physics
 
+- [Quantum State Preparation via Large-Language-Model-Driven Evolution](https://arxiv.org/abs/2505.06347)  
+  Combining large language models and genetic algorithms to optimize quantum circuit to prepare ground states of given hamitonian, this research significantly improves efficiency and provides powerful tools for high-energy physics studies.
+
 - [Explainable AI-assisted Optimization for Feynman Integral Reduction](https://arxiv.org/abs/2502.09544)  
   Combining large language models and genetic algorithms to optimize the reduction of Feynman integrals, this research significantly improves computational efficiency and provides powerful tools for high-energy physics studies.
 
