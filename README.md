@@ -28,7 +28,7 @@ Hey there! I’m the wise, cool Nondegeneracy, the physicist. a glacier cat with
 - [Explainable AI-assisted Optimization for Feynman Integral Reduction](https://arxiv.org/abs/2502.09544)  
   Combining large language models and genetic algorithms to optimize the reduction of Feynman integrals, this research significantly improves computational efficiency and provides powerful tools for high-energy physics studies.
 
-- [Influence of Planetary Rotation on Supersonic Flow of Lava Planets: A Two-Dimensional Horizontal Model Analysis](https://arxiv.org/abs/2501.04350)  
+- [Influence of Planetary Rotation on Supersonic Flow of Lava Planets: A Two-Dimensional Horizontal Model Analysis](https://doi.org/10.3847/1538-4357/adc80a)
   Exploring the atmospheric dynamics of lava planets, this research investigates how planetary rotation affects supersonic airflow, offering new insights into the climate characteristics of these planets.
 
 ### Explainability
