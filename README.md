@@ -31,6 +31,9 @@ Hey there! I’m the wise, cool Nondegeneracy, the physicist. a glacier cat with
 - [Influence of Planetary Rotation on Supersonic Flow of Lava Planets: A Two-Dimensional Horizontal Model Analysis](https://doi.org/10.3847/1538-4357/adc80a)  
   Exploring the atmospheric dynamics of lava planets, this research investigates how planetary rotation affects supersonic airflow, offering new insights into the climate characteristics of these planets.
 
+- [Thickness model for viscous impinging liquid sheets](https://doi.org/10.1017/jfm.2025.10219 )  
+  Combining experimental measurements with theoretical modeling, this research reveals how liquid viscosity governs the thickness distribution of ultra-thin sheets formed by impinging jets, providing essential guidance for laser-driven particle sources and fluid-structure applications.
+
 ### Explainability
 
 - [Bridging the Dimensional Chasm: Uncover Layer-wise Dimensional Reduction in Transformers through Token Correlation](https://arxiv.org/abs/2503.22547)  
