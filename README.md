@@ -1,6 +1,8 @@
 # Zhuo-Yang Song
 
-![avatar](https://github.com/SonnyNondegeneracy/SonnyNondegeneracy/blob/main/134E0182B7C3EC12AA59D3390595DE6C.jpg)
+<div align="center">
+  <img src="https://github.com/SonnyNondegeneracy/SonnyNondegeneracy/blob/main/134E0182B7C3EC12AA59D3390595DE6C.jpg" alt="avatar" width="300"/>
+</div>
 
 ## About Me
 
