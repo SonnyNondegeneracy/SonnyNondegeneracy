@@ -25,7 +25,7 @@ Hey there! I’m the wise, cool Nondegeneracy, the physicist. a glacier cat with
 ### AI for Physics
 - [Iterated Agent for Symbolic Regression](https://arxiv.org/abs/2510.08317)  
   The IdeaSearch framework is an iterated-agent architecture designed to push the frontiers of physics by coupling human-expert priors with autonomous machine discovery.
-  Within IdeaSearch we embed IdeaSearchFitter, a concise symbolic-regression workflow that beats PySR on FSReD, resists over-fitting, and extrapolates with interpretable equations.
+  Within IdeaSearch we embed IdeaSearchFitter, a concise symbolic-regression workflow that outperform PySR,AI-Feynman on FSReD; resists over-fitting, and can extrapolate better with interpretable equations even on real-world observables.
   
 - [Quantum State Preparation via Large-Language-Model-Driven Evolution](https://arxiv.org/abs/2505.06347)  
   Combining large language models and genetic algorithms to optimize quantum circuit to prepare ground states of given hamitonian, this research significantly improves efficiency and provides powerful tools for high-energy physics studies.
