@@ -39,7 +39,7 @@ Hey there! I’m the wise, cool Nondegeneracy, the physicist. a glacier cat with
   By analyzing the geometric evolution of tokens in Transformer models, this work reveals patterns of dimensional compression, providing new perspectives on understanding the inner workings of large language models.
 
 - [Where to Search: Measure the Prior-Structured Search Space of LLM Agents](https://arxiv.org/abs/2510.14846)
-  develops a compact formal theory that models LLM agents as fuzzy-relation operators and introduces a coverage generating function, a critical parameter/coverage index, and geometric measures (shortest distance and shortest-path counts) to quantitatively explain reachability, safety envelopes, and the dynamics of iterative LLM-driven search.
+- develops a compact formal theory that models LLM agents as fuzzy-relation operators and introduces a coverage generating function, a critical parameter/coverage index, and geometric measures (shortest distance and shortest-path counts) to quantitatively explain reachability, safety envelopes, and the dynamics of iterative LLM-driven search.
 
 ### Physics
 
